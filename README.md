@@ -9,7 +9,7 @@ Endpointy REST:
 /greeting: Przyjmuje parametr name i wyświetla spersonalizowaną wiadomość.
 Dynamika dzięki Thymeleaf:
 
-Użyto silnika szablonów Thymeleaf do tworzenia dynamicznych stron HTML, które wstawiają dane z serwera.
+Użyliśmy silnika szablonów Thymeleaf do tworzenia dynamicznych stron HTML, które wstawiają dane z serwera.
 Zawartość statyczna:
 Strona zawiera również statyczny tekst i obrazek.
 
@@ -20,7 +20,7 @@ Java 17+
 Maven
 
 Użycie
-Spersonalizowane powitanie:
+Spersonalizowanego powitania:
 
 URL: http://localhost:8080/greeting?name=Jakub
 Wynik: Hello, Jakub!
